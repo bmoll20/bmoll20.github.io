@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+author_profile: false
 ---
 
 [Home](/) | [About](/about) | [Projects](/projects/project1) | [Research](/research/paper1)

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+author_profile: false
 ---
 
 <!-- Custom navigation bar -->
